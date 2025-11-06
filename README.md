@@ -1,2 +1,3 @@
-# Trabalho-2-Estrutura-de-Dados
-Repositório para o trabalho prático 2 de estrutura de dados
+Readme de Execução
+
+O código foi feito de forma que possa executar sem qualquer input do usuário. Basta compilá-lo e ele irá executar normalmente.
