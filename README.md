@@ -1,4 +1,4 @@
-## README de Execução
+## README
 
 O código foi desenvolvido para a disciplina **Estrutura de Dados I - 2025/2** (Prof. Dr. Johnatan Oliveira) e tem como objetivo **analisar o desempenho dos algoritmos de ordenação**: **Bubble Sort, Selection Sort, Insertion Sort, Quick Sort** e **Merge Sort**.
 
