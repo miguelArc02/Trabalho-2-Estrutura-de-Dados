@@ -33,7 +33,7 @@ Trabalho desenvolvido para a disciplina **Estrutura de Dados I (2025/2)**
 **Professor:** Dr. Johnatan Oliveira
 **Instituição:** Universidade Federal de Lavras (UFLA)
 **Aluno 1:** *(Higor Felipe dos Reis)*
-**Aluno 1:** *(Hugo do Nascimento Silva)*
-**Aluno 1:** *(Miguel Arcanjo Figueiredo Rodrigues Silva)*
+**Aluno 2:** *(Hugo do Nascimento Silva)*
+**Aluno 3:** *(Miguel Arcanjo Figueiredo Rodrigues Silva)*
 
 
